@@ -1,0 +1,6 @@
+# Ritika Mehndi Art
+# CLIENT: update the sitemap URL below if the domain changes.
+User-agent: *
+Allow: /
+
+Sitemap: https://www.ritikamehndiart.com/sitemap.xml
